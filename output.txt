@@ -1,4 +1,5 @@
 title,year,rating
+The Batman,2022,8.4
 The King's Man,2021,6.3
 Bullet Train,2022,NULL
 West Side Story,2021,7.5
@@ -96,4 +97,3 @@ The Flash,2023,NULL
 Venom: Let There Be Carnage,2021,6.0
 Killers of the Flower Moon,2022,NULL
 Jurassic World Dominion,2022,NULL
-Antlers,2021,5.9

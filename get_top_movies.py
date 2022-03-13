@@ -35,7 +35,7 @@ row_dict = {
     'rating': ['rating'],
 }
 # Iterate through every row in table, besides header row
-for row in range(1, len(tr_elements)):
+for row in range(len(tr_elements)):
     title_eles = tr_elements[row].xpath(".//td[@class='titleColumn']//a/text()")
     row_dict['title'].append(extract_title(title_eles))
     
